@@ -1,0 +1,403 @@
+{
+  "chapter_to_title": {},
+  "generated_from": "live",
+  "title_ranges": [
+    {
+      "end": "21-V",
+      "folder": "i",
+      "start": "1",
+      "title_key": "I"
+    },
+    {
+      "end": "30-B",
+      "folder": "ii",
+      "start": "22",
+      "title_key": "II"
+    },
+    {
+      "end": "53-G",
+      "folder": "iii",
+      "start": "31",
+      "title_key": "III"
+    },
+    {
+      "end": "90",
+      "folder": "v",
+      "start": "71",
+      "title_key": "V"
+    },
+    {
+      "end": "103",
+      "folder": "vi",
+      "start": "91",
+      "title_key": "VI"
+    },
+    {
+      "end": "106-R",
+      "folder": "vii",
+      "start": "104",
+      "title_key": "VII"
+    },
+    {
+      "end": "119",
+      "folder": "viii",
+      "start": "107",
+      "title_key": "VIII"
+    },
+    {
+      "end": "124-A",
+      "folder": "ix",
+      "start": "120",
+      "title_key": "IX"
+    },
+    {
+      "end": "149-R",
+      "folder": "x",
+      "start": "125",
+      "title_key": "X"
+    },
+    {
+      "end": "152",
+      "folder": "xi",
+      "start": "150",
+      "title_key": "XI"
+    },
+    {
+      "end": "174",
+      "folder": "xii",
+      "start": "153",
+      "title_key": "XII"
+    },
+    {
+      "end": "180",
+      "folder": "xiii",
+      "start": "175",
+      "title_key": "XIII"
+    },
+    {
+      "end": "185",
+      "folder": "xiv",
+      "start": "183",
+      "title_key": "XIV"
+    },
+    {
+      "end": "200-O",
+      "folder": "xv",
+      "start": "186",
+      "title_key": "XV"
+    },
+    {
+      "end": "202-B",
+      "folder": "xvi",
+      "start": "201",
+      "title_key": "XVI"
+    },
+    {
+      "end": "205-D",
+      "folder": "xvii",
+      "start": "203",
+      "title_key": "XVII"
+    },
+    {
+      "end": "215-D",
+      "folder": "xviii",
+      "start": "206",
+      "title_key": "XVIII"
+    },
+    {
+      "end": "227-F",
+      "folder": "xix",
+      "start": "216",
+      "title_key": "XIX"
+    },
+    {
+      "end": "227-M",
+      "folder": "xix-a",
+      "start": "227-G",
+      "title_key": "XIX-A"
+    },
+    {
+      "end": "250",
+      "folder": "xx",
+      "start": "228",
+      "title_key": "XX"
+    },
+    {
+      "end": "269",
+      "folder": "xxi",
+      "start": "259",
+      "title_key": "XXI"
+    },
+    {
+      "end": "272",
+      "folder": "xxii",
+      "start": "270",
+      "title_key": "XXII"
+    },
+    {
+      "end": "283",
+      "folder": "xxiii",
+      "start": "273",
+      "title_key": "XXIII"
+    },
+    {
+      "end": "287-J",
+      "folder": "xxiv",
+      "start": "284",
+      "title_key": "XXIV"
+    },
+    {
+      "end": "288",
+      "folder": "xxv",
+      "start": "288",
+      "title_key": "XXV"
+    },
+    {
+      "end": "291-A",
+      "folder": "xxvi",
+      "start": "289",
+      "title_key": "XXVI"
+    },
+    {
+      "end": "303",
+      "folder": "xxvii",
+      "start": "292",
+      "title_key": "XXVII"
+    },
+    {
+      "end": "305-A",
+      "folder": "xxviii",
+      "start": "304",
+      "title_key": "XXVIII"
+    },
+    {
+      "end": "308",
+      "folder": "xxix",
+      "start": "306",
+      "title_key": "XXIX"
+    },
+    {
+      "end": "332-N",
+      "folder": "xxx",
+      "start": "309",
+      "title_key": "XXX"
+    },
+    {
+      "end": "359-U",
+      "folder": "xxxi",
+      "start": "333",
+      "title_key": "XXXI"
+    },
+    {
+      "end": "360",
+      "folder": "xxxii",
+      "start": "360",
+      "title_key": "XXXII"
+    },
+    {
+      "end": "361",
+      "folder": "xxxiii",
+      "start": "361",
+      "title_key": "XXXIII"
+    },
+    {
+      "end": "361-E",
+      "folder": "xxxiii-a",
+      "start": "361-A",
+      "title_key": "XXXIII-A"
+    },
+    {
+      "end": "382",
+      "folder": "xxxiv",
+      "start": "362",
+      "title_key": "XXXIV"
+    },
+    {
+      "end": "382-A",
+      "folder": "xxxiv-a",
+      "start": "382-A",
+      "title_key": "XXXIV-A"
+    },
+    {
+      "end": "397-B",
+      "folder": "xxxv",
+      "start": "383",
+      "title_key": "XXXV"
+    },
+    {
+      "end": "399-G",
+      "folder": "xxxvi",
+      "start": "398",
+      "title_key": "XXXVI"
+    },
+    {
+      "end": "420-Q",
+      "folder": "xxxvii",
+      "start": "400",
+      "title_key": "XXXVII"
+    },
+    {
+      "end": "421-B",
+      "folder": "xxxviii",
+      "start": "421",
+      "title_key": "XXXVIII"
+    },
+    {
+      "end": "424",
+      "folder": "xxxix",
+      "start": "422",
+      "title_key": "XXXIX"
+    },
+    {
+      "end": "439-A",
+      "folder": "xl",
+      "start": "425",
+      "title_key": "XL"
+    },
+    {
+      "end": "454-C",
+      "folder": "xli",
+      "start": "444",
+      "title_key": "XLI"
+    },
+    {
+      "end": "456-B",
+      "folder": "xlii",
+      "start": "455",
+      "title_key": "XLII"
+    },
+    {
+      "end": "461-B",
+      "folder": "xliii",
+      "start": "457",
+      "title_key": "XLIII"
+    },
+    {
+      "end": "465",
+      "folder": "xliv",
+      "start": "462",
+      "title_key": "XLIV"
+    },
+    {
+      "end": "470",
+      "folder": "xlv",
+      "start": "466",
+      "title_key": "XLV"
+    },
+    {
+      "end": "471-D",
+      "folder": "xlvi",
+      "start": "471",
+      "title_key": "XLVI"
+    },
+    {
+      "end": "476",
+      "folder": "xlvii",
+      "start": "472",
+      "title_key": "XLVII"
+    },
+    {
+      "end": "479-B",
+      "folder": "xlviii",
+      "start": "477",
+      "title_key": "XLVIII"
+    },
+    {
+      "end": "480",
+      "folder": "xlix",
+      "start": "480",
+      "title_key": "XLIX"
+    },
+    {
+      "end": "489-C",
+      "folder": "l",
+      "start": "481",
+      "title_key": "L"
+    },
+    {
+      "end": "505",
+      "folder": "li",
+      "start": "490",
+      "title_key": "LI"
+    },
+    {
+      "end": "513",
+      "folder": "lii",
+      "start": "506",
+      "title_key": "LII"
+    },
+    {
+      "end": "526",
+      "folder": "liii",
+      "start": "514",
+      "title_key": "LIII"
+    },
+    {
+      "end": "533",
+      "folder": "liv",
+      "start": "527",
+      "title_key": "LIV"
+    },
+    {
+      "end": "546-C",
+      "folder": "lv",
+      "start": "534",
+      "title_key": "LV"
+    },
+    {
+      "end": "567-A",
+      "folder": "lvi",
+      "start": "547",
+      "title_key": "LVI"
+    },
+    {
+      "end": "569",
+      "folder": "lvii",
+      "start": "568",
+      "title_key": "LVII"
+    },
+    {
+      "end": "591",
+      "folder": "lviii",
+      "start": "570",
+      "title_key": "LVIII"
+    },
+    {
+      "end": "614",
+      "folder": "lix",
+      "start": "592",
+      "title_key": "LIX"
+    },
+    {
+      "end": "623-C",
+      "folder": "lx",
+      "start": "615",
+      "title_key": "LX"
+    },
+    {
+      "end": "624",
+      "folder": "lxi",
+      "start": "624",
+      "title_key": "LXI"
+    },
+    {
+      "end": "651-F",
+      "folder": "lxii",
+      "start": "625",
+      "title_key": "LXII"
+    },
+    {
+      "end": "671",
+      "folder": "lxiii",
+      "start": "652",
+      "title_key": "LXIII"
+    },
+    {
+      "end": "679",
+      "folder": "lxiv",
+      "start": "672",
+      "title_key": "LXIV"
+    }
+  ],
+  "toc_url": "https://gc.nh.gov/rsa/html/nhtoc.htm"
+}
