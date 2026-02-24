@@ -2,4 +2,4 @@ One minor but enduring annoyance in my legal practice is how cumbersome it is to
 
 I therefore created (with the help of ChatGPT!) a little online tool that I think is a vast improvement on the existing options to navigate the RSAs. It is available at: https://izdr1.github.io/NH-RSA/. I hope it is of use!
 
-- Israel Piedra
+Israel Piedra
